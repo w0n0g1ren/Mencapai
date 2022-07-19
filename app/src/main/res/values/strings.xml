@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application123</string>
+    <string-array name="Paket">
+        <item>--Pilih--</item>
+        <item>Kilat(antar pagi ambil sore)</item>
+        <item>Syahdu (diambil setelah 2 hari)</item>
+        <item>Iron Men (Setrika saja)</item>
+    </string-array>
 </resources>

@@ -3,7 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.256" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/drawable/atas.xml" value="0.256" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/drawable/bgbtncekin.xml" value="0.256" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/drawable/bgedittext.xml" value="0.256" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/drawable/button.xml" value="0.2885" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/drawable/form.xml" value="0.256" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/drawable/ic_launcher_background.xml" value="0.256" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/drawable/menu.xml" value="0.256" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/font/comic_neue_bold_italic.xml" value="0.3145833333333333" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/layout/activity_dashboard.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/layout/activity_detail.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/layout/activity_hapus.xml" value="0.32083333333333336" />
         <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/layout/activity_main2.xml" value="0.32083333333333336" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/layout/activity_start.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/layout/activity_tampil.xml" value="0.29583333333333334" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/layout/cardview.xml" value="0.31979166666666664" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/layout/item_image.xml" value="0.28541666666666665" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2505" />
+        <entry key="..\:/Users/nurfa/AndroidStudioProjects/MyApplication123/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2505" />
       </map>
     </option>
   </component>
